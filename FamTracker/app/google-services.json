@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "191186086020",
+    "firebase_url": "https://familytracker-53602.firebaseio.com",
+    "project_id": "familytracker-53602",
+    "storage_bucket": "familytracker-53602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191186086020:android:3eecb50e051cfe0d",
+        "android_client_info": {
+          "package_name": "com.famtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191186086020-38e4i7ha9vk0bpmgmfgl7fcpfffh7ukl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famtracker",
+            "certificate_hash": "a9fad9c05c5c31da0704c162e5b70af119217d58"
+          }
+        },
+        {
+          "client_id": "191186086020-glnlo1mr3k5jbjlb2h84nilg5te51r56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ZwUzBv4OUUoI0hBh3EAP3mCDdHs9L7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191186086020-glnlo1mr3k5jbjlb2h84nilg5te51r56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

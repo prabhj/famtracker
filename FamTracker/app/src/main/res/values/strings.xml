@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">FamTracker</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in">Sign Up</string>
+    <string name="action_sign_in_short">Sign Up</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">386358205098067</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_package_details">PackageDetailsActivity</string>
+    <array name="spinnerItems">
+        <item>Food</item>
+        <item>Medicine</item>
+        <item>Electronics</item>
+        <item>Clothing</item>
+        <item>Documents</item>
+        <item>Others</item>
+    </array>
+    <string name="spin">Select package type</string>
+    <string name="title_activity_main2">Family Tracker</string>
+    <string name="title_activity_circles">Your Circles</string>
+    <string name="title_activity_members">Members</string>
+    <string name="title_activity_members_location_on_map">Map</string>
+    <string name="API_KEY">AIzaSyBhJfGXGFo2npDvhGEFaM53RWpfBlYCFuc</string>
+
+    <string name="about_content">
+        FamTracker makes life easier. It brings each member of the family even much closer. Be your spouse if out for shopping, daughter returning back late from work, 4 year child going for the newly admitted school or grandfather out for a walk. You have a complete safe and secure protection around them by having known of their real time locations just at every moment.
+
+The simplicity and uniqueness of the user friendly interface of FamTracker makes it highly affable for any member of the family to use the app.
+
+FamTracker also provides an option as "SOS" which incase of emergency when pressed, sends an alert to all the associate members of the family with attached link to their current location, so the closest member of the family can approach for help.
+
+Famtracker brings safety to home. Stay Safe! Stay Smiling!
+    </string>
+
+
+</resources>
